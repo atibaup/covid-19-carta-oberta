@@ -1,6 +1,8 @@
 # Carta oberta a l'administració pública: recollim i publiquem les dades de l'epidèmia
 
-Auqest és un repositori per redactar de forma col.laborativa una carta oberta a l'administració amb la fi de demanar més transparència i la publicació de les dades referents a l'epidèmia COVID-19. La idea és treballar-la conjuntament amb tants professionals de les dades com fos possible (i.e tots nosaltres), signar-la i mirar de publicar-la per pressionar l'administració (Generalitat com Govern central) perquè millorin la transparència i qualitat de les dades públiques sobre l'impacte i incidència de l'epidèmia, amb el fi de mitigar-ne l'impacte tant a nivell sanitari, social i econòmic. 
+Auqest és un repositori per redactar de forma col.laborativa una [carta oberta](carta.md) a l'administració amb la fi de demanar més transparència i la publicació de les dades referents a l'epidèmia COVID-19. La idea és treballar-la conjuntament amb tants professionals de les dades com fos possible (i.e tots nosaltres), signar-la i mirar de publicar-la per pressionar l'administració (Generalitat com Govern central) perquè millorin la transparència i qualitat de les dades públiques sobre l'impacte i incidència de l'epidèmia, amb el fi de mitigar-ne l'impacte tant a nivell sanitari, social i econòmic. 
+
+Pots llegir el borrador de la carta en la seva versió més recent aquí: [carta.md](carta.md)
 
 ## Col.labora!
 

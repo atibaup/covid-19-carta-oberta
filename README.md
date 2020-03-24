@@ -1,17 +1,17 @@
 # Carta oberta a l'administració pública: recollim i publiquem les dades de l'epidèmia
 
-Auqest és un repositori per redactar una carta oberta a l'administració per demanar més transparència i la publicació de les dades referents a l'epidèmia COVID-19. La idea és treballar-la conjuntament amb tants professionals de les dades com fos possible (i.e tots nosaltres), signar-la i mirar de publicar-la per pressionar l'administració (Generalitat com Govern central) perquè millorin la transparència i qualitat de les dades públiques sobre l'impacte i incidència de l'epidèmia, amb el fi de mitigar-ne l'impacte tant a nivell sanitari, social i econòmic. 
+Auqest és un repositori per redactar de forma col.laborativa una carta oberta a l'administració amb la fi de demanar més transparència i la publicació de les dades referents a l'epidèmia COVID-19. La idea és treballar-la conjuntament amb tants professionals de les dades com fos possible (i.e tots nosaltres), signar-la i mirar de publicar-la per pressionar l'administració (Generalitat com Govern central) perquè millorin la transparència i qualitat de les dades públiques sobre l'impacte i incidència de l'epidèmia, amb el fi de mitigar-ne l'impacte tant a nivell sanitari, social i econòmic. 
 
 ## Col.labora!
 
 1. Omple [aquest formulari](https://forms.gle/Xm9zSquYsprzGYrX7) i us enviarem un correu per donar-vos accés a aquest repositori, on hi treballarem plegats.
 2. Crea un compte a github per tal de clonar aquest repositori
 
-Junts podem afrontar aquest repte i construïr una societat més ben gestionada per al següent. No dubteu a fer circular aquest formulari entre els vostres contactes en matemàtiques, estadística o ciència de dades en general.
+Junts podem afrontar aquest repte i construïr una societat més ben gestionada per al següent. No dubteu a fer circular el formulari o aquest repositori entre els vostres contactes en matemàtiques, estadística o ciència de dades en general.
 
 **Important**: Omplir el formulari no implica que firmeu la carta resultant. Això ho farem quan la mateixa ja estigui preparada.
 
-## Com proposar canvis al borrador 
+## Com proposar canvis al borrador [`carta.md`](carta.md)
 
 Per tal de facilitar la col.laboració simultània, la branca `master` d'aquest repositori estarà protegida (no s'hi podrà enviar commits sense obrir una Pull Request). Per tal de proposar canvis, si us plau seguiu el següent procediment:
 
@@ -24,3 +24,17 @@ Per tal de facilitar la col.laboració simultània, la branca `master` d'aquest 
 ## Instruccions per signar
 
 Les instruccions per signar la carta estaran disponibles un cop la mateixa estigui llesta.
+
+## FAQs
+
+### Perquè fem servir `github` i no `Google Docs` per treballar col.laborativament?
+
+La intenció d'aquest projecte és assolir un consens màxim entre el major nombre possible de professionals. Creiem que la millor eina per treballar col.laborativament en un document comú és `git`, fent servir Google Docs seria difícil discutir i comentar les propostes de canvis si sóm un nombre gran de col.laboradors.
+
+### Aquesta iniciativa té alguna afiliació política?
+
+No, encara que evidentment tots tinguem les nostres opiniones polítiques, l'única afiliació que reconeixem és la de promoure l'ús de dades i la transparència per millor gestionar aquesta crisis.
+
+### Puc contribuir-hi si no conec `git` i `github`?
+
+Aquesta és una iniciativa personal de persones que tenim altres obligacions professionals. L'única manera que hem trobat per compaginar les mateixes amb la voluntat de treballar en aquest document de manera col.laborativa és fent servir aquestes eines. Si no coneixes `git` però en vols aprendre, pots trobar una [bona guia introductòria aquí](http://swcarpentry.github.io/git-novice/).

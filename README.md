@@ -17,8 +17,8 @@ Per tal de facilitar la col.laboració simultània, la branca `master` d'aquest 
 
 1. Cloneu el repositori en el vostre local: `git clone https://github.com/atibaup/covid-19-carta-oberta.git`
 2. Creeu una branca per treballar en la vostra proposta: `git checkout -b {nom_usuari}/{nom_proposta}` on `{nom_usuari}` és el vostre usuari de github i `{nom_proposta}` és una cadena de caràcters que resumeixi breument el que voleu canviar, o identifiqui la vostra branca més o menys únicament.
-3. Feu els canvis al fitxer `carta.md` en el vostre repositori local, feu commit i push al remot de la vostra branca: `git push origin {nom_usuari}/{nom_proposta}`.
-4. Obriu una Pull Request (PR) de `{nom_usuari}/{nom_proposta}` a master explicant breument el perquè dels vostres canvis.
+3. Feu els canvis al fitxer [`carta.md`](carta.md) en el vostre repositori local, feu commit i push al remot de la vostra branca: `git push origin {nom_usuari}/{nom_proposta}`.
+4. Obriu una Pull Request (PR) de `{nom_usuari}/{nom_proposta}` a `master` explicant breument el perquè dels vostres canvis.
 5. Un cop aprovada i ajuntada la PR, els canvis s'incorporaran a l'última versió de la carta, que estarà a `master`
 
 ## Instruccions per signar

@@ -11,7 +11,7 @@ D'altra banda, la **confiança** mútua entre les institucions i la ciutadania �
 
 Creiem fermament que per respondre a aquesta crisi, les administracions públiques tenen **el deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que:
 
-1. Es publiquin diàriament les dades epidemiològiques, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/) o els [EEUU](https://covidtracking.com/) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania. 
+1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/) o els [EEUU](https://covidtracking.com/) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania. 
 
 2. En cas que no existeixi, es desenvolupi un sistema de recollida i validació de dades sobre l'epidèmia que s'integri eficaçment i de manera no-intrusiva en els protocols d'actuació dels professionals sanitaris, amb la fi de garantir-ne la qualitat i el nivell de detall sense torbar el desenvolupament de la seva tasca principal.
 
@@ -35,9 +35,18 @@ Demanem que es comencin a recollir i publicar, de forma periòdica, en la mesura
 
 Per tal de garantir el dret a la privacitat de l’individu, caldrà d’establir criteris d’ofuscació allà on el nombre d’observacions en un donat segment de sexe, gènere i localitat fós suficientment petit com per identificar-ne l’individu.
 
-Les dades haurien de ser publicades diariàment mitjantçant una aplicació Web d'accés públic, en un format consistent i adequat a l’accés programàtic de les mateixes.
+Les dades haurien de ser publicades diariàment als portals de dades obertes de l'administració, en un format consistent i adequat a l’accés programàtic de les mateixes.
 
 ## Appèndix II: Especificacions d’una aplicació centralitzada per la recollida, agregació i publicació de dades sobre l’incidència de l’epidèmia
+
+## Apèndix III: Aspectes Ètics
+
+Cal associar a aquestes dades un un codi ètic, **públic** i específic, amb els següents aspectes:
+* Privacitat: Com es garanteix, quins criteris s'han usat?
+* Transparència: Quins és l'ús esperat d'aquestes dades? Quins usos no són legítims?
+* Riscs potencials: Quins biaixos potencials hi ha? Quins mals usos potencials s'han idetificat?
+* Qualitat: Com es valida la *qualitat* de les dades?
+* Rendició de comptes: Quin mecanisme hi ha per corregir qualsevol error a les dades? 
 
 [Work in progress]
 

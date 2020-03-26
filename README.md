@@ -73,11 +73,11 @@ Este es un repositorio para redactar de forma colaborativa una [carta abierta](c
 
 Puedes leer el borrador de la carta en su versión más reciente ahí: [carta.md](carta.md)
 
-* [¡Colabora!](#col·labora!)
-* [Como proponer cambios en el borrador](#com-proposar-canvis-al-borrador)
-* [Instrucciones para firmar](#instruccions-per-signar)
+* [¡Colabora!](#¡colabora!)
+* [Cómo proponer cambios en el borrador](#como-proponer-cambios-en-el-borrador)
+* [Instrucciones para firmar](#instrucciones-para-firmar)
 * [FAQs](#faqs)
-* [Actualizaciones](#actualitzacions)
+* [Actualizaciones](#actualizaciones)
 
 
 ## ¡Colabora!

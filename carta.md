@@ -42,9 +42,9 @@ Les dades haurien de ser publicades diariàment als portals de dades obertes de 
 ## Apèndix III: Aspectes Ètics
 
 Cal associar a aquestes dades un un codi ètic, **públic** i específic, amb els següents aspectes:
-* Privacitat: Com es garanteix, quins criteris s'han usat?
+* Privacitat: Com es garanteix, quins criteris s'han usat? Com s'ha informat als pacients?
 * Transparència: Quins és l'ús esperat d'aquestes dades? Quins usos no són legítims?
-* Riscs potencials: Quins biaixos potencials hi ha? Quins mals usos potencials s'han idetificat?
+* Riscs potencials: Quins biaixos potencials hi ha a les dades? Quins mals usos potencials s'han idetificat?
 * Qualitat: Com es valida la *qualitat* de les dades?
 * Rendició de comptes: Quin mecanisme hi ha per corregir qualsevol error a les dades? 
 

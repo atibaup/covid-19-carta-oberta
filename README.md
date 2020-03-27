@@ -1,4 +1,4 @@
-[Versión en Castellano](#carta-abierta-a-la-administración-pública-recojamos-y-publiquemos-los-datos-de-la-pandemia)
+**[Versión en Castellano](#carta-abierta-a-la-administración-pública-recojamos-y-publiquemos-los-datos-de-la-pandemia)**
 
 
 # Carta oberta a l'administració pública: recollim i publiquem les dades de la pandèmia

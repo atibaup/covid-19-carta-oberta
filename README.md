@@ -1,3 +1,6 @@
+# [Versión en Castellano](#carta-abierta-a-la-administración-pública:-recojamos-y-publiquemos-los-datos-de-la-pandemia)
+
+
 # Carta oberta a l'administració pública: recollim i publiquem les dades de la pandèmia
 
 Auqest és un repositori per redactar de forma col·laborativa una [carta oberta](carta.md) a l'administració amb l'objectiu de demanar més transparència i la publicació de les dades referents a l'epidèmia COVID-19. La idea és treballar-la conjuntament amb tants professionals de les dades com fos possible (i.e tots nosaltres), signar-la i mirar de publicar-la per pressionar l'administració (Generalitat com Govern central) perquè millorin la transparència i qualitat de les dades públiques sobre l'impacte i incidència de l'epidèmia, amb el fi de mitigar-ne l'impacte tant a nivell sanitari, social i econòmic. 
@@ -65,9 +68,7 @@ I sobretot... ajudem-nos a fer difusió d'aquesta iniciativa entre el màxim de 
 
 Una abraçada (a distància!)
 
-Arnau
----------
-# Carta abierta a la administración pública: recogemos y publicamos los datos de la pandemia
+# Carta abierta a la administración pública: recojamos y publiquemos los datos de la pandemia
 
 Este es un repositorio para redactar de forma colaborativa una [carta abierta](carta.md) a la administración con el fin de pedir más transparencia y la publicación de los datos referentes a la pandemia COVID-19. La idea es trabajarla conjuntamente con tantos profesionales de los datos como fuera posible (es decir, todos nosotros), firmarla y tratar de publicarla para presionar la administración (Generalitat como Gobierno central) para que mejoren la transparencia y calidad de los datos públicos sobre el impacto e incidencia de la pandemia, con el objetivo de mitigar su impacto a nivel sanitario, social y económico. 
 
@@ -134,9 +135,7 @@ Y sobre todo... ayudémonos a difundir esta iniciativa entre el máximo de conta
 
 Un abrazo (¡a distancia!)
 
-Arnau
-
----------
+---
 
 Hi folks,
 

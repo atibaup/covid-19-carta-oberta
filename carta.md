@@ -55,7 +55,7 @@ Les dades haurien de ser publicades diàriament als portals de dades obertes de 
 
 ## Apèndix II: Exemples d'aplicacions <a name="apendix_2"></a>
 
-### Aplicacions per al control 
+### Aplicacions per al control / monitoratge de la salut pública
 
 * El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
 

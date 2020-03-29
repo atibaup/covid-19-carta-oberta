@@ -26,7 +26,7 @@ de la pandèmia, per exemple:
 
 * El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
 * El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
-* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+* El desenvolupament de models d'Intel·ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
 * El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distànciament social.
 
 Recollim a l'[Apèndix II](#apendix_2) aquests i altres exemples d'aplicacions de les dades recollides amb més detall.
@@ -59,7 +59,7 @@ Les dades haurien de ser publicades diàriament als portals de dades obertes de 
 
 * El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
 
-* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+* El desenvolupament de models d'Intel·ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
 
 ### Aplicacions per mitigar l'impacte econòmic
 
@@ -117,7 +117,19 @@ Para garantizar el derecho a la privacidad del individuo, habrá que establecer 
 
 Los datos tendrán que ser publicados diariamente en los portales de datos abiertos de la administración, en un formato consistente y adecuado para el acceso programático de los mismos.
 
-## Apéndice II: Especificaciones de una aplicación centralizada para la recogida, agregación y publicación de datos sobre la incidencia de la epidemia
+## Apéndice II: Ejemplos de aplicaciones
+
+### Aplicaciones para el control / monitoreo de la salud pública
+
+* El desarrollo de modelos avanzados de muestreo para identificar el máximo número de casos bajo la restricción de disponer de un número limitado de pruebas,
+
+* EL desarrolo de modelos de Ingeligencia Artificial para el pre-diagnóstico rápido basado en datos de localización, potencial exposición a contactos, síntomas u otros.
+
+### Aplicaciones para mitigar el impacto económico
+
+* El desarrollo de estrategias de confinamiento selectivo sofisticadas, para minimizar el impacto económico a la vez que se limita la progresión de la pandemia,
+
+* El desarrollo de modelos para cuanquificar el impacto económico a nivel local y sectorial en función de la severidad de las estrategias de distanciamiento social.
 
 ## Apéndice III: Aspectos éticos
 

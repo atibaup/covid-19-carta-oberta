@@ -6,17 +6,17 @@ La crisi sanitària, social i econòmica generada per l’actual pandèmia repre
 
 Creiem que el **talent innovador** i la **confiança** son dues pedres angulars per tal d'afrontar amb èxit el repte sanitari de caire immediat, així com els reptes socials i econòmics que apareixeran a mitjà i llarg termini.
 
-El **talent innovador** del nostre país és un actiu incalculable per trobar solucions imaginatives i tècnicament avançades als problemes que anirem afrontant en l'àmbit de la salut pública, econòmic i social. Alguns exemples del mateix són la [fabricació de respiradors mitjançant dissenys lliures per a impressores 3D impulsada per empreses locals](https://www.ara.cat/economia/coronavirus-covid-19-respirador-impressio-3d_0_2421357959.html), la [manufactura de material de protecció sanitari amb la mateixa tecnologia](https://www.lavanguardia.com/cribeo/estilo-de-vida/20200324/4882165145/decenas-voluntarios-impresoras-3d-estan-creando-protectores-ayudar-sanitarios-asturias-coronavirus.html), el [treball de modelització epidemiològica dels nostres investigadors](http://diaridigital.urv.cat/un-model-matematic-prediu-el-risc-de-nous-contagis-per-coronavirus-a-espanya/) o l'utilització de les [dades de telefonia mòbil per entendre la relació entre mobilitat i expansió del virus](https://fundacionconexus.es/la-generalitat-usara-big-data-para-conceder-la-incidencia-del-coronavirus-y-minimizar-sus-efectos/) (Nota: des del dia 28 de Març, aquesta [última aplicació sembla ser adoptada pel Govern central](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4162)).
+El **talent innovador** del nostre país és un actiu incalculable per trobar solucions imaginatives i tècnicament avançades als problemes que anirem afrontant en l'àmbit de la salut pública, econòmic i social. Alguns exemples del mateix són la [fabricació de respiradors mitjançant dissenys lliures per a impressores 3D impulsada per empreses locals](https://www.ara.cat/economia/coronavirus-covid-19-respirador-impressio-3d_0_2421357959.html), la [manufactura de material de protecció sanitari amb la mateixa tecnologia](https://www.lavanguardia.com/cribeo/estilo-de-vida/20200324/4882165145/decenas-voluntarios-impresoras-3d-estan-creando-protectores-ayudar-sanitarios-asturias-coronavirus.html), el [treball de modelització epidemiològica dels nostres investigadors](http://diaridigital.urv.cat/un-model-matematic-prediu-el-risc-de-nous-contagis-per-coronavirus-a-espanya/) o l'utilització de les [dades de telefonia mòbil per entendre la relació entre mobilitat i expansió del virus](https://fundacionconexus.es/la-generalitat-usara-big-data-para-conceder-la-incidencia-del-coronavirus-y-minimizar-sus-efectos/)\[[1](#nota_1)\].
 
 D'altra banda, la **confiança** mútua entre les institucions i la ciutadania és i serà fonamental per entendre, respectar i col·laborar amb les decisions que, sens dubte, caldrà prendre. 
 
 Creiem fermament que, per respondre a aquesta crisi, les administracions públiques tenen **el deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que:
 
-1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari \[[1](#nota_1)\]. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/), els [EEUU](https://covidtracking.com/) o [Itàlia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-i-contagi-in-italia/) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania. 
+1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari \[[2](#nota_2)\]. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/), els [EEUU](https://covidtracking.com/) o [Itàlia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-i-contagi-in-italia/) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania. 
 
 2. En cas que no existeixi, es desenvolupi un sistema de recollida i validació de dades sobre l'epidèmia que s'integri eficaçment i de manera no-intrusiva en els protocols d'actuació dels professionals sanitaris, a fi i efecte de garantir-ne la qualitat i el nivell de detall sense torbar el desenvolupament de la seva tasca principal d'atenció als malalts.
 
-3. En cas que no existeixi, es desenvolupi un sistema automàtic d'agregació, ofuscació i difusió de les dades recollides en els punts d'actuació (hospitals, CAPs, telèfons d'emergència, aplicacions mòbils) en un format adequat que en permeti el tractament informàtic.
+3. En cas que no existeixi, es desenvolupi un sistema automàtic d'agregació, ofuscació i difusió de les dades recollides en els punts d'actuació (hospitals, CAPs, telèfons d'emergència, aplicacions mòbils) en un format adequat que en permeti el tractament informàtic. Creiem que el dret a la privacitat i la garantia a les llibertats personals no haurien de ser vulnerats per gestionar aquesta crisi, i expliquem amb més detall a l'[Apèndix III](#apendix_3) les consideracions ètiques a tenir en compte a l'hora de recollir, agregar i publicar aquestes dades de manera a respectar-los.
 
 4. Es publiquin els models epidemiològics emprats per a fer les prediccions de progressió de l'epidèmia, a fi d'estimular el debat científic sobre la seva validesa i precisió.
 
@@ -24,14 +24,18 @@ Creiem que la recollida i obertura d'aquestes dades (especificades amb més deta
 possibilitarien el desenvolupament de noves eines per lluitar contra les consequències sanitàries, socials i econòmiques 
 de la pandèmia, per exemple:
 
-* 
-*
+* El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
+* El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
+* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distànciament social.
 
 Recollim a l'[Apèndix II](#apendix_2) aquests i altres exemples d'aplicacions de les dades recollides amb més detall.
 
 Som molts els professionals en el sector tecnològic i científic preocupats per la situació actual, però esperançats per la resposta cívica que ha desencadenat. Treballem plegats, societat civil, administració i tota mena d'institucions per fer front al major repte del segle i sortir-ne enfortits!
 
-<a name="nota_1">\[1\]</a> Celebrem l'iniciativa recent de la Generalitat de Catalunya de publicar les dades a nivell local al portal de [l'AQuAS](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus) així com del Govern d'Espanya a nivell de Comunitat Autònoma al portal de l'[Instituto de Salud Carlos III](https://covid19.isciii.es/). En el primer cas, demanem que les dades es publiquin en un format accessible, veure per exemple [aquest repositori](https://github.com/ibesora/covid-19-scrapper). En el segon cas, demanem al Govern Central que comenci a publicar les dades de tests administrats a més d'una separació per localitat.
+<a name="nota_1">\[1\]</a> Des del dia 28 de Març, aquesta [última aplicació sembla ser adoptada pel Govern Central, segons el BOE 4162](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4162)
+
+<a name="nota_2">\[2\]</a> Celebrem l'iniciativa recent de la Generalitat de Catalunya de publicar les dades a nivell local al portal de [l'AQuAS](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus) així com del Govern d'Espanya a nivell de Comunitat Autònoma al portal de l'[Instituto de Salud Carlos III](https://covid19.isciii.es/). En el primer cas, demanem que les dades es publiquin en un format accessible, veure per exemple [aquest repositori](https://github.com/ibesora/covid-19-scrapper). En el segon cas, demanem al Govern Central que comenci a publicar les dades de tests administrats a més d'una separació per localitat.
  
 ## Apèndix I: Especificacions de les dades a recollir i publicar <a name="apendix_1"></a>
 
@@ -51,6 +55,18 @@ Les dades haurien de ser publicades diàriament als portals de dades obertes de 
 
 ## Apèndix II: Exemples d'aplicacions <a name="apendix_2"></a>
 
+### Aplicacions per al control 
+
+* El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
+
+* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+
+### Aplicacions per mitigar l'impacte econòmic
+
+* El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
+
+* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distànciament social.
+
 ## Apèndix III: Aspectes ètics <a name="apendix_3"></a>
 
 Cal associar a aquestes dades un codi ètic, **públic** i específic, amb els següents aspectes:
@@ -61,6 +77,8 @@ Cal associar a aquestes dades un codi ètic, **públic** i específic, amb els s
 * Rendició de comptes: Quin mecanisme hi ha per corregir qualsevol error a les dades? 
 
 # Carta abierta a las administraciones públicas Catalanas y Españolas
+
+**NOTA**: Traducción en curso. Por cuestiones prácticas, primero se actualiza el documento en Catalán y acto seguido incorporamos las traducciones al documento en Castellano.
 
 La crisis sanitaria, social y económica generada por la actual pandemia representa el mayor reto de nuestra generación. Más allá del esfuerzo sobrehumano asumido por nuestro personal sanitario y de los otros trabajadores de las instituciones públicas y privadas, la situación actual requiere de una respuesta conjunta y cohesionada de todas las instituciones y de la sociedad civil.
 

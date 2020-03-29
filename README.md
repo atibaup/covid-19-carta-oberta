@@ -53,6 +53,14 @@ Aquesta és una iniciativa personal de persones que tenim altres obligacions pro
 
 ## Actualitzacions
 
+### 2020-03-29
+
+* Ja sóm 41 inscrits a l'iniciativa i per majoria simple tenim un nom: "Col.lectiu Nightingale". Pels qui no us soni el nom, us convido a llegir sobre la figura de Florence Nightingale.
+* En breu publicarem una pàgina web senzila (github page) sota aquest nom on hi anirem afegint informació. Si algú vol col.laborar en el desenvolupament de la mateixa, si us plau contacteu-me 🤞
+* Gràcies a dos dels col.laboradors (merci Jordi i Octavian!), ja tenim traducció al Castellà i correcció d'algunes errades ortogràfiques de la versió original. A més, hem ampliat el contingut i propostes de l'esborrany.
+* Per petició popular, hem posat l'última versió de l'esborrany en un Document de Google, per tal de facilitar la col.laboració d'aquells que no estan familiaritzats amb git/github. Si us plau difoneu-lo sobretot entre els vostres contactes en bioestadística, epidemiologia, econometria o d'altres grups que hi poguéssin estar interessats:[enllaç a la versió Google Docs](https://docs.google.com/document/d/16TthQVhwuQPmoCSbvpYnyFb5iiOwqxJPjX-AuDPbJv0/edit?usp=sharing)
+* Diverses persones han observat acertadament que a la proposta actual li falta "chica" respecte a la proposta de valor que justificaria l'inversió en recollida i publicació de les dades. Som-hi, desenvolupem-ho entre tots! Sino, la carta anirà coixa.
+
 ### 2020-03-26
 
 Hola a tots,

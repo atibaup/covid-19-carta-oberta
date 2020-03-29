@@ -8,7 +8,7 @@ Auqest és un repositori per redactar de forma col·laborativa una [carta oberta
 Pots llegir l'esborrany de la carta en la seva versió més recent aquí: [carta.md](carta.md)
 
 * [Col·labora!](#col·labora!)
-* [Com proposar canvis al borrador](#com-proposar-canvis)
+* [Com proposar canvis al borrador](#com-proposar-canvis-a-lesborrany-cartamd-)
 * [Instruccions per signar](#instruccions-per-signar)
 * [FAQs](#faqs)
 * [Actualitzacions](#actualitzacions)

@@ -8,7 +8,7 @@ Auqest és un repositori per redactar de forma col·laborativa una [carta oberta
 Pots llegir l'esborrany de la carta en la seva versió més recent aquí: [carta.md](carta.md)
 
 * [Col·labora!](#col·labora!)
-* [Com proposar canvis al borrador](#com-proposar-canvis-al-borrador)
+* [Com proposar canvis al borrador](#com-proposar-canvis)
 * [Instruccions per signar](#instruccions-per-signar)
 * [FAQs](#faqs)
 * [Actualitzacions](#actualitzacions)
@@ -23,7 +23,7 @@ Junts podem afrontar aquest repte i construir una societat millor gestionada per
 
 **Important**: Omplir el formulari no implica que firmeu la carta resultant. Això ho farem quan la mateixa ja estigui preparada.
 
-## Com proposar canvis a l'esborrany [`carta.md`](carta.md)
+## Com proposar canvis a l'esborrany [`carta.md`](carta.md) <a href="com-proposar-canvis"></a>
 
 Per tal de facilitar la col·laboració simultània, la branca `master` d'aquest repositori estarà protegida (no s'hi podrà enviar commits sense obrir una Pull Request). Per tal de proposar canvis, si us plau seguiu el següent procediment:
 

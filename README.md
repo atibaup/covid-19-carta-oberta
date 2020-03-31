@@ -25,6 +25,8 @@ Junts podem afrontar aquest repte i construir una societat millor gestionada per
 
 ## Com proposar canvis a l'esborrany [`carta.md`](carta.md) <a href="com-proposar-canvis"></a>
 
+### Opció 1: git (preferida)
+
 Per tal de facilitar la col·laboració simultània, la branca `master` d'aquest repositori estarà protegida (no s'hi podrà enviar commits sense obrir una Pull Request). Per tal de proposar canvis, si us plau seguiu el següent procediment:
 
 1. Cloneu el repositori en el vostre local: `git clone https://github.com/atibaup/covid-19-carta-oberta.git`
@@ -32,6 +34,13 @@ Per tal de facilitar la col·laboració simultània, la branca `master` d'aquest
 3. Feu els canvis al fitxer [`carta.md`](carta.md) en el vostre repositori local, feu commit i push al remot de la vostra branca: `git push origin {nom_usuari}/{nom_proposta}`.
 4. Obriu una Pull Request (PR) de `{nom_usuari}/{nom_proposta}` a `master` explicant breument el perquè dels vostres canvis.
 5. Un cop aprovada i ajuntada la PR, els canvis s'incorporaran a l'última versió de la carta, que estarà a `master`
+
+### Opció 2: google doc
+
+Si prefereixes deixar `git` i `github` per un altre moment, pots proposar les esmenes en un google Doc que mirarem d'anar sincronitzant amb l'esborrany del repositori:
+
+[Google Doc](https://docs.google.com/document/d/16TthQVhwuQPmoCSbvpYnyFb5iiOwqxJPjX-AuDPbJv0/edit?usp=sharing)
+
 
 ## Instruccions per signar
 
@@ -100,6 +109,8 @@ Juntos podemos afrontar este reto y construir una sociedad mejor gestionada para
 
 ## Cómo proponer cambios en el borrador [`carta.md`](carta.md)
 
+### Opción 1: git (favorita)
+
 Para facilitar la colaboración simultánea, la rama `master` de este repositorio estará protegida (no se podrán enviar commits sin abrir una Pull Request). Para proponer cambios, por favor sigue el siguiente procedimiento:
 
 1. Clona el repositorio en tu local: `git clone https://github.com/atibaup/covid-19-carta-oberta.git`
@@ -107,6 +118,14 @@ Para facilitar la colaboración simultánea, la rama `master` de este repositori
 3. Haz los cambios en el fichero [`carta.md`](carta.md) en tu repositorio local, haz commit y push en el remoto de tu rama: `git push origin {nombre_usuario}/{nombre_propuesta}`.
 4. Abre una Pull Request (PR) de `{nombre_usuario}/{nombre_propuesta}` a `master` explicando brevemente el porqué de tus cambios.
 5. Una vez aprobada y juntada la PR, los cambios se incorporarán en la última versión de la carta, que estará en `master`
+
+### Opción 2: google doc (en Catalán solo)
+
+Si prefieres dejar `git` y `github` para otro momento y entiendes el Catalán, puedes proponer tus emmiendas en un Google Doc
+que miraremos de ir sincronizando con el borrador del repositorio:
+
+[Google Doc](https://docs.google.com/document/d/16TthQVhwuQPmoCSbvpYnyFb5iiOwqxJPjX-AuDPbJv0/edit?usp=sharing)
+
 
 ## Instrucciones para firmar
 

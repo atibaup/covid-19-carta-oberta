@@ -4,15 +4,15 @@
 
 La crisi sanitària, social i econòmica generada per l’actual pandèmia representa el major repte de la nostra generació. Més enllà de l’esforç sobrehumà assumit pel nostre personal sanitari i d'altres treballadors d'institucions públiques i privades, la situació actual requereix una resposta conjunta i cohesionada de totes les institucions i de la societat civil.
 
-Creiem que el **talent innovador** i la **confiança** son dues pedres angulars per tal d'afrontar amb èxit el repte sanitari de caire immediat, així com els reptes socials i econòmics que apareixeran a mitjà i llarg termini.
+Creiem que el talent innovador i la confiança són dues pedres angulars per tal d'afrontar amb èxit el repte sanitari de caire immediat, així com els reptes socials i econòmics que apareixeran a mitjà i llarg termini.
 
-El **talent innovador** del nostre país és un actiu incalculable per trobar solucions imaginatives i tècnicament avançades als problemes que anirem afrontant en l'àmbit de la salut pública, econòmic i social. Alguns exemples del mateix són la [fabricació de respiradors mitjançant dissenys lliures per a impressores 3D impulsada per empreses locals](https://www.ara.cat/economia/coronavirus-covid-19-respirador-impressio-3d_0_2421357959.html), la [manufactura de material de protecció sanitari amb la mateixa tecnologia](https://www.lavanguardia.com/cribeo/estilo-de-vida/20200324/4882165145/decenas-voluntarios-impresoras-3d-estan-creando-protectores-ayudar-sanitarios-asturias-coronavirus.html), el [treball de modelització epidemiològica dels nostres investigadors](http://diaridigital.urv.cat/un-model-matematic-prediu-el-risc-de-nous-contagis-per-coronavirus-a-espanya/) o l'utilització de les [dades de telefonia mòbil per entendre la relació entre mobilitat i expansió del virus](https://fundacionconexus.es/la-generalitat-usara-big-data-para-conceder-la-incidencia-del-coronavirus-y-minimizar-sus-efectos/)\[[1](#nota_1)\].
+El **talent innovador** del nostre país és un actiu incalculable per trobar solucions imaginatives i tècnicament avançades als problemes que anirem afrontant en l'àmbit de la salut pública, econòmic i social. Alguns exemples del mateix són la [fabricació de respiradors mitjançant dissenys lliures per a impressores 3D impulsada per empreses locals](https://www.ara.cat/economia/coronavirus-covid-19-respirador-impressio-3d_0_2421357959.html), la [manufactura de material de protecció sanitari amb la mateixa tecnologia](https://www.lavanguardia.com/cribeo/estilo-de-vida/20200324/4882165145/decenas-voluntarios-impresoras-3d-estan-creando-protectores-ayudar-sanitarios-asturias-coronavirus.html), el [treball de modelització epidemiològica dels nostres investigadors](http://diaridigital.urv.cat/un-model-matematic-prediu-el-risc-de-nous-contagis-per-coronavirus-a-espanya/) o la utilització de les [dades de telefonia mòbil per entendre la relació entre mobilitat i expansió del virus](https://fundacionconexus.es/la-generalitat-usara-big-data-para-conceder-la-incidencia-del-coronavirus-y-minimizar-sus-efectos/) \[[1](#nota_1)\].
 
-D'altra banda, la **confiança** mútua entre les institucions i la ciutadania és i serà fonamental per entendre, respectar i col·laborar amb les decisions que, sens dubte, caldrà prendre. 
+D'altra banda, la confiança mútua entre les institucions i la ciutadania és i serà fonamental per entendre, respectar i col·laborar amb les decisions que, sens dubte, caldrà prendre.
 
-Creiem fermament que, per respondre a aquesta crisi, les administracions públiques tenen **el deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes**, i demanem que:
+Creiem fermament que, per respondre a aquesta crisi, les administracions públiques tenen el deure i l'oportunitat de potenciar i desenvolupar aquests dos aspectes, i demanem que:
 
-1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari \[[2](#nota_2)\]. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/), els [EEUU](https://covidtracking.com/) o [Itàlia](https://github.com/pcm-dpc/COVID-19) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania. 
+1. Es publiquin diàriament les dades epidemiològiques als portals de dades obertes de l'administració, a un nivell de detall adequat per assegurar-ne l'explotació estadística tot i garantint la privacitat dels ciutadans, i en un format explotable per programari \[[2](#nota_2)\]. Estats com [Corea del Sud](https://coronamap.site/), [Alemanya](https://npgeo-corona-npgeo-de.hub.arcgis.com/), els [EEUU](https://covidtracking.com/) o [Itàlia](https://github.com/pcm-dpc/COVID-19) estan apostant clarament per la recollida i publicació de dades detallades de manera periòdica, cosa que facilita la innovació i promou la confiança entre la ciutadania.
 
 2. En cas que no existeixi, es desenvolupi un sistema de recollida i validació de dades sobre l'epidèmia que s'integri eficaçment i de manera no-intrusiva en els protocols d'actuació dels professionals sanitaris, a fi i efecte de garantir-ne la qualitat i el nivell de detall sense torbar el desenvolupament de la seva tasca principal d'atenció als malalts.
 
@@ -20,38 +20,37 @@ Creiem fermament que, per respondre a aquesta crisi, les administracions públiq
 
 4. Es publiquin els models epidemiològics emprats per a fer les prediccions de progressió de l'epidèmia, a fi d'estimular el debat científic sobre la seva validesa i precisió.
 
-Creiem que la recollida i obertura d'aquestes dades (especificades amb més detall a l'[Apèndix I](#apendix_1)) 
-possibilitarien el desenvolupament de noves eines per lluitar contra les consequències sanitàries, socials i econòmiques 
-de la pandèmia, per exemple:
+Creiem que la recollida i l’obertura d'aquestes dades (especificades amb més detall a l'[Apèndix I](#apendix_1)) 
+possibilitarien el desenvolupament de noves eines per lluitar contra les conseqüències sanitàries, socials i econòmiques de la pandèmia, per exemple:
 
 * El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
-* El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
-* El desenvolupament de models d'Intel·ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
-* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distànciament social.
+* El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia. Això seria d’especial importància en l’escenari en el que el virus no desaparegui en breu i s’hagi de compatibilitzar l’activitat econòmica i la vida social amb gestió del virus,
+* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres,
+* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies d’alentiment d’activitat econòmica i de distanciament social.
 
 Recollim a l'[Apèndix II](#apendix_2) aquests i altres exemples d'aplicacions de les dades recollides amb més detall.
 
 Som molts els professionals en el sector tecnològic i científic preocupats per la situació actual, però esperançats per la resposta cívica que ha desencadenat. Treballem plegats, societat civil, administració i tota mena d'institucions per fer front al major repte del segle i sortir-ne enfortits!
 
+
 <a name="nota_1">\[1\]</a> Des del dia 28 de Març, aquesta [última aplicació sembla ser adoptada pel Govern Central, segons el BOE 4162](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4162)
 
-<a name="nota_2">\[2\]</a> Celebrem l'iniciativa recent de la Generalitat de Catalunya de publicar les dades a nivell local al portal de [l'AQuAS](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus) així com del Govern d'Espanya a nivell de Comunitat Autònoma al portal de l'[Instituto de Salud Carlos III](https://covid19.isciii.es/). En el primer cas, demanem que les dades es publiquin en un format accessible, veure per exemple [aquest repositori](https://github.com/ibesora/covid-19-scrapper). En el segon cas, demanem al Govern Central que comenci a publicar les dades de tests administrats a més d'una separació per localitat.
+<a name="nota_2">\[2\]</a> Celebrem la iniciativa recent de la Generalitat de Catalunya de publicar les dades a nivell local al portal de [l'AQuAS](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus) així com del Govern d'Espanya a nivell de Comunitat Autònoma al portal de l'[Instituto de Salud Carlos III](https://covid19.isciii.es/). En el primer cas, demanem que les dades es publiquin en un format accessible, veure per exemple [aquest repositori](https://github.com/ibesora/covid-19-scrapper). En el segon cas, demanem al Govern Central que comenci a publicar les dades de tests administrats a més d'una segmentació per municipi.
  
 ## Apèndix I: Especificacions de les dades a recollir i publicar <a name="apendix_1"></a>
 
-Demanem que es comenci a recollir i publicar, de forma periòdica, en la mesura de les possibilitats i tècniques actuals, les següents dades:
+Demanem que es comenci a recollir i publicar, de forma periòdica, en la mesura que les possibilitats i tècniques actuals ho permetin, les següents dades:
 
-* Nombre de tests administrats i el seu resultat, segmentats per dia, edat, sexe, comorbiditats, i població (o codi postal), així com pel tipus de test (PCR, anticossos o altre)
-* Nombre de símptomes reportats, segmentats per dia, edat, sexe, comorbiditats, i població (o codi postal)
+* Nombre de tests administrats i el seu resultat, segmentats per dia, edat, sexe, comorbiditats, i població (o codi postal), així com pel tipus de test (PCR, anticossos o altre).
+* Nombre de símptomes reportats, segmentats per dia, edat, sexe, comorbiditats, i població (o codi postal).
 * Nombre d’ingressos hospitalaris, segmentats per dia, edat, sexe, comorbiditat, per centre i per severitat
 * Nombre d'altes hospitalàries, segmentades per dia, edat, sexe, comorbiditats, per centre i per severitat
 * Nombre de defuncions, segmentades per dia, edat, sexe, comorbiditats, per centre i per causa de defunció
 * Nombre de trucades als números d’emergència, segmentades per dia i per localitat
 * Ocupació del transport públic als grans nuclis urbans, segmentada per servei i dia
+* Per tal de garantir el dret a la privacitat de l’individu, caldrà establir criteris d’ofuscació allà on el nombre d’observacions en un donat segment de sexe, gènere i localitat fos suficientment petit com per identificar-ne l’individu.
+* Les dades haurien de ser publicades diàriament als portals de dades obertes de l'administració, en un format consistent i adequat per al seu accés programàtic.
 
-Per tal de garantir el dret a la privacitat de l’individu, caldrà establir criteris d’ofuscació allà on el nombre d’observacions en un donat segment de sexe, gènere i localitat fos suficientment petit com per identificar-ne l’individu.
-
-Les dades haurien de ser publicades diàriament als portals de dades obertes de l'administració, en un format consistent i adequat per al seu accés programàtic.
 
 ## Apèndix II: Exemples d'aplicacions <a name="apendix_2"></a>
 
@@ -59,17 +58,19 @@ Les dades haurien de ser publicades diàriament als portals de dades obertes de 
 
 * El desenvolupament de models avançats de mostratge per identificar el màxim nombre de casos sota la restricció de disposar d'un nombre de tests limitat,
 
-* El desenvolupament de models d'Intel·ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+* El desenvolupament de models d'Intel.ligència Artificial pel pre-diagnòstic ràpid basat en dades de localització, potencial exposició a contactes, símptomes o d'altres.
+
 
 ### Aplicacions per mitigar l'impacte econòmic
 
 * El desenvolupament d'estratègies de confinament selectiu sofisticades, per minimitzar l'impacte econòmic tot limitant la progressió de la pandèmia,
 
-* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distànciament social.
+* El desenvolupament de models per quantificar l'impacte econòmic a nivell local i per sector en funció de la severitat de les estratègies de distanciament social.
+
 
 ## Apèndix III: Aspectes ètics <a name="apendix_3"></a>
 
-Cal associar a aquestes dades un codi ètic, **públic** i específic, amb els següents aspectes:
+Cal associar a aquestes dades un codi ètic, **públic** i específic, regint els següents aspectes:
 * Privacitat: Com es garanteix quins criteris s'han usat? Com s'ha informat els pacients?
 * Transparència: Quin és l'ús esperat d'aquestes dades? Quins usos no són legítims?
 * Riscs potencials: Quins biaixos potencials hi ha a les dades? Quins mals usos potencials s'han identificat?
@@ -99,7 +100,18 @@ Creemos firmemente que, para responder a esta crisis, las administraciones públ
 
 4. Se publiquen los modelos epidemiológicos utilizados para hacer las predicciones de progresión de la epidemia, con tal de estimular el debate científico sobre la validez y precisión de los mismos.
 
-Somos muchos los profesionales en el sector tecnológico y científico preocupados por la situación actual, pero esperanzados por la respuesta cívica que ha desencadenado. ¡Trabajemos juntos, sociedad civil, administración y toda clase de instituciones para hacer frente al mayor reto del siglo y salir de ello fortalecidos!
+Creemos que la recogida y la apertura de estos datos (especificadas con más detalle en el [Apéndice I] (#apendice_1))
+posibilitarían el desarrollo de nuevas herramientas para luchar contra las consecuencias sanitarias, sociales y económicas de la pandemia, por ejemplo:
+
+* El desarrollo de modelos avanzados de muestreo para identificar el máximo número de casos bajo la restricción de disponer de un número de tests limitado,
+* El desarrollo de estrategias de confinamiento selectivo sofisticadas, para minimizar el impacto económico limitando la progresión de la pandemia. Esto sería de especial importancia en el escenario en el que el virus no desaparezca en breve y se tenga que compatibilizar la actividad económica y la vida social con gestión del virus,
+* El desarrollo de modelos de Inteligencia Artificial para el pre-diagnóstico rápido basado en datos de localización, potencial exposición a contactos, síntomas u otros,
+* El desarrollo de modelos para cuantificar el impacto económico a nivel local y por sector en función de la severidad de las estrategias de ralentización de actividad económica y de distanciamiento social.
+
+Recogemos al [Apéndice II] (#apendice_2) estos y otros ejemplos de aplicaciones de los datos recogidos con más detalle.
+
+Somos muchos los profesionales en el sector tecnológico y científico preocupados por la situación actual, pero esperanzados por la respuesta cívica que ha desencadenado. Trabajamos juntos, sociedad civil, administración y todo tipo de instituciones para hacer frente al mayor reto del siglo y salir fortalecidos!
+
  
 ## Apéndice I: Especificaciones de los datos a recoger y publicar
 
@@ -134,11 +146,11 @@ Los datos tendrán que ser publicados diariamente en los portales de datos abier
 ## Apéndice III: Aspectos éticos
 
 Hay que asociar a estos datos un código ético, **público** y específico, con los aspectos siguientes:
+
 * Privacidad: ¿Cómo se garantiza, qué criterios se han utilizado? ¿Cómo se ha informado a los pacientes?
 * Transparencia: ¿Cuál es el uso esperado de estos datos? ¿Cuáles usos no son legítimos?
 * Riesgos potenciales: ¿Qué sesgos potenciales presentan los datos? ¿Qué usos indebidos potenciales se han identificado?
 * Calidad: ¿Cómo se valida la *calidad* de los datos?
 * Informe: ¿Qué mecanismos hay para corregir cualquier error en los datos? 
 
-[Work in progress]
 
